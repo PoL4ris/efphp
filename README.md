@@ -1,7 +1,6 @@
 # ephp #
 
 
-## EasyPhp documentaci&oacute;n ##
 ## EasyPhp documentation ##
 
 EasyPhp es una herramienta creada para el r&aacute;pido desarrollo de aplicaciones php orientadas a soluciones a la medida.
