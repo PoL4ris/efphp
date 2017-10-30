@@ -3,29 +3,18 @@
 
 ## EasyPhp documentation ##
 
-EasyPhp es una herramienta creada para el r&aacute;pido desarrollo de aplicaciones php orientadas a soluciones a la medida.
-EasyPhp CMS created for fast development of apps using PHP.
+EasyPhp its a CMS created for fast development of apps using PHP.
 
 ### Setup ###
 
-La configuraci&oacute;n general de base de datos y rutas se adaptar&aacute; en
-
-> /lib/Configuracion.php
 
 Main DB and config data open.
 
 > /lib/Configuracion.php
 
-Antes de comenzar a crear tablas es necesario ejecutar cuando menos una vez en un explorador el administrador
-el cual utilizará
 
->/lib/Wizard.php
+######  Default Access
 
-para crear las tablas base.
-
-###### Accesos default
-
-El usuario y contraseña default para poder entrar al administrador serán
 User and password default values on the admin page.
 
 ><ul><li><strong>Usuario</strong>:admin@efphp.</li><li><strong>Contraseña</strong>:admin</li></ul>
